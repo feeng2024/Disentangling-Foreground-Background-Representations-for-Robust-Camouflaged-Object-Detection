@@ -17,7 +17,7 @@ The current repository includes part of the training, testing, evaluation, and n
 
 Representative prediction maps and visualization results are available at:
 
-[Visualization Results](这里替换成你的预测图链接)
+[https://pan.baidu.com/s/1qYVzoyf_RAstOYJyVSYKIg?pwd=2sfi 提取码: 2sfi](这里替换成你的预测图链接)
 
 ## Code Availability
 
