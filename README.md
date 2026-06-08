@@ -8,7 +8,6 @@ The current repository includes part of the training, testing, evaluation, and n
 
 ## Files
 
-- `MyNet.py`: network implementation of the proposed model.
 - `MyTrain.py`: training script.
 - `MyTest.py`: testing script.
 - `MyEval.py`: evaluation script.
